@@ -1,2 +1,2 @@
-export const CREATE_LINK = "http://localhost:8080/api/link/";
-export const GET_LINK = "http://localhost:8080/api/link/";
+export const CREATE_LINK = "https://linkseva.onrender.com/api/link/";
+export const GET_LINK = "https://linkseva.onrender.com/api/link/";
